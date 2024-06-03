@@ -6,6 +6,6 @@ import (
 
 func main() {
 
-	fmt.Println("Start array \n")
+	fmt.Println("Start array")
 
 }
